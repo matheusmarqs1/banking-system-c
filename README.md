@@ -49,31 +49,30 @@ The diagram below illustrates the main flow of the banking system — from accou
 
 ## 🔧 How to Compile and Run
 
-1. Clone or download the repository:
-2. 
-   ```
-   git clone https://github.com/matheusmarqs1/banking-system-c.git
-   cd banking-system-c
-   ```
+**1. Clone or download the repository:**
+```
+git clone https://github.com/matheusmarqs1/banking-system-c.git
+cd banking-system-c
+```
 
-4. Compile the program:
-   ```
-   gcc main.c -o bank-system
-   ```
+**2. Compile the program:**
+```
+gcc main.c -o bank-system
+```
 
-5. Run the System:
+**3. Run the System:**
 
 **▶️ On Linux / WSL:**
 
-   ```
-   ./bank-system
-   ```
+```
+./bank-system
+```
 
 **💻 On Windows (CMD or PowerShell):**
+```
+bank-system.exe
+```
 
-```
-   bank-system.exe
-```
 ---
 
 ## 💻 Technologies
