@@ -48,18 +48,20 @@ The diagram below illustrates the main flow of the banking system — from accou
 ---
 
 ## 🔧 How to Compile and Run
+
 1. Clone or download the repository:
+2. 
    ```
    git clone https://github.com/matheusmarqs1/banking-system-c.git
    cd banking-system-c
    ```
 
-2. Compile the program:
+4. Compile the program:
    ```
    gcc main.c -o bank-system
    ```
 
-3. Run the System:
+5. Run the System:
 
 **▶️ On Linux / WSL:**
 
